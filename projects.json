@@ -1,0 +1,38 @@
+{
+  "projects": [
+    {
+      "id": "sample-circuit",
+      "title": "A small signal",
+      "category": "circuits",
+      "year": "2026",
+      "description": "A first look at the work that happens on the bench.",
+      "sampleLabel": "BOARD STUDY",
+      "symbol": "ϟ",
+      "isExample": true,
+      "files": []
+    },
+    {
+      "id": "sample-photo",
+      "title": "Light, held still",
+      "category": "photography",
+      "year": "2025",
+      "description": "A visual study in color, texture, and the everyday.",
+      "sampleLabel": "VISUAL STUDY",
+      "symbol": "◌",
+      "isExample": true,
+      "files": []
+    },
+    {
+      "id": "sample-video",
+      "title": "In the making",
+      "category": "video",
+      "year": "2025",
+      "description": "A short window into a process, from first sketch to final frame.",
+      "sampleLabel": "PROCESS FILM",
+      "symbol": "▶",
+      "isExample": true,
+      "files": []
+    }
+  ]
+}
+
